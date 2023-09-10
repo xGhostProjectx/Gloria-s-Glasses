@@ -18,8 +18,8 @@ def get_input():
 
 def display():
     # TODO: Diplay transaction for customer
-    number_glasses = glorias_glasses.number_glasses
-    total_sale = glorias_glasses.total_sale
+    number_glasses = glorias_glasses.get_number_of_glasses()
+    total_sale = glorias_glasses.get_total_sale()
     print(f"Total number of glasses {number_glasses}")
     print(f"Your total for your glasses is: ${total_sale:,.2f}")
 
