@@ -1,7 +1,7 @@
 """
  Name: glorias_glasses_3.py
  Author: Jesse Bunnell
- Created: 08/02/2023
+ Created: 09/02/2023
  Purpose:  OOP POS program
 """
 
