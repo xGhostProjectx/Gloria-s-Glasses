@@ -20,6 +20,6 @@ total_glasses = glasses * GLASSES_COST
 total_suns = suns * SUNGLASSES_COST
 total_bill = total_glasses + total_suns
 
-# TODO: Diplay transaction for customer
+# TODO: Display transaction for customer
 print(f"Your total for your glasses is: ${total_bill:,.2f}")
 

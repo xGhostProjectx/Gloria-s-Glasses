@@ -40,7 +40,7 @@ def main():
     print(title("Print Title Test!"))
 
 def title (statement):
-    # Get the length of the statment string variable
+    # Get the length of the statement string variable
     text_length = len(statement)
 
     # Create the title string

@@ -28,7 +28,7 @@ class GloriasGlasses:
         self.total_sale = self.total_glasses + self.total_suns
 
     def display(self,):
-        # TODO: Diplay transaction for customer
+        # TODO: Display transaction for customer
         print(f"Your total for your glasses is: ${self.total_sale:,.2f}")
 
 

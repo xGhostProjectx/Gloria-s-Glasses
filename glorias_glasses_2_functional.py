@@ -30,7 +30,7 @@ def calculate(glasses):
     return total_sale
 
 def display(total_sale):
-    # TODO: Diplay transaction for customer
+    # TODO: Display transaction for customer
     print(f"Your total for your glasses is: ${total_sale:,.2f}")
 
 
