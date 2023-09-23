@@ -1,11 +1,12 @@
 # Glorias-Glasses
 **by Jesse Bunnell**
 These are my attempts at making a working POS for a glasses shop for Gloria
-Gloria will be selling regular glasses and sunglasses and hopfully many other
+Gloria will be selling regular glasses and sunglasses and hopefully many other
 types of products at her glasses shop.
 
 ## Version History
 
+- (09-22-23) V5 Updated main and class to include all products
 - (09-10-23) V4 Refactored OOP to separate class and program files.
 - (09-02-23) V3 Refactored to single file OOP
 - (09-02-23) V2 Refactored to use functions
